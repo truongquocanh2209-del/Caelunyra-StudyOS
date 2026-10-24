@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Caelunyra StudyOS",
+  "short_name": "Caelunyra",
+  "description": "Không gian học tập cá nhân để tập trung, viết, ôn tập và theo dõi tiến bộ.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1120",
+  "theme_color": "#0d1120",
+  "icons": [
+    {
+      "src": "./caelunyra-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./caelunyra-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./caelunyra-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
